@@ -1,10 +1,10 @@
 * DogTest.cs */ 
 /* 
 	File name: 	DogTest.cs
-	Purpose:		Test harness for Dog class
-	Author:		Hans Telford
-	Date:			30-Nov-2022
-	Version:		1.0
+	Purpose:	Test harness for Dog class
+	Author:		Shatha Almaktoum
+	Date:		30-Nov-2022
+	Version:	1.0
 	Notes:
 	
 */
